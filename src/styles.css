@@ -1,3 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import 'tailwindcss';
+@import "primeicons/primeicons.css";
+body{
+    background-color: rgb(23, 23, 26);
+    color: white;
+}
