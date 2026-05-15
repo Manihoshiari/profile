@@ -3,7 +3,7 @@
 @import 'tailwindcss';
 @import "primeicons/primeicons.css";
 body{
-    background-color: #242424;
+    background-color: black;
     color: white;
     font-family: 'Geist Mono', monospace;
 }
