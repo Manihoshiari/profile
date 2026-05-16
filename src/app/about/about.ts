@@ -7,8 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './about.css',
 })
 export class About {
-dark:boolean=true
-toggletheme(){
-  this.dark=!this.dark
-}
+
 }
